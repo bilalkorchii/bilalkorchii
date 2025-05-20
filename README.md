@@ -46,10 +46,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalkorchi&show_icons=true&theme=default" alt="Bilal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalkorchii&show_icons=true&theme=default" alt="Bilal's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkorchi&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkorchii&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
