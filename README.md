@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Korchi</h1>
-<h3 align="center">💻 Full Stack Developer | 📱 Mobile Dev | 🤖 AI/ML Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer~AI/ML </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bilalkorchi&label=Profile%20views&color=0e75b6&style=flat" alt="bilalkorchi" />
