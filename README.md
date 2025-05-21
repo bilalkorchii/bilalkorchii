@@ -10,7 +10,6 @@
 ### 🚀 About Me
 
 - 🎓 Full Stack Developer specialized in modern web & mobile apps  
-- 📱 Building cross-platform mobile apps using **React Native & Expo**  
 - 💡 Interested in AI, ML tools and automating tasks with smart solutions  
 - 🌐 Comfortable with both frontend and backend development  
 - 🧠 Always learning and staying up-to-date with the latest tech
